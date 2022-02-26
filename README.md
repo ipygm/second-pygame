@@ -1,2 +1,2 @@
 # second-pygame
-# in the process of making
+a group proj, in the process of making
